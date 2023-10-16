@@ -15,7 +15,7 @@
     "reactstrap": "8.10.0",
     "sass": "1.62.1"
   },
-  "homepage": "https://gabestepdev.github.io/now-ui-kit-react/",
+  "homepage": "https://gabestepdev.github.io/pie-test/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
