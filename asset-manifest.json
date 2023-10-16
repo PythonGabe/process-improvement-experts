@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pie-test/static/css/main.be4efe61.css",
-    "main.js": "/pie-test/static/js/main.2c80a189.js",
+    "main.js": "/pie-test/static/js/main.f0a4fb0c.js",
     "static/media/header.jpg": "/pie-test/static/media/header.2cb9b14bf49346eb410d.jpg",
     "static/media/bg1.jpg": "/pie-test/static/media/bg1.71a28027225b8ae945bb.jpg",
     "static/media/bg3.jpg": "/pie-test/static/media/bg3.850b808854f295b2c596.jpg",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.be4efe61.css",
-    "static/js/main.2c80a189.js"
+    "static/js/main.f0a4fb0c.js"
   ]
 }
