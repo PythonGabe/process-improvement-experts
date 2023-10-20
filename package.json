@@ -3,7 +3,6 @@
   "version": "1.5.2",
   "private": true,
   "dependencies": {
-    "gh-pages": "^6.0.0",
     "moment": "2.29.4",
     "nouislider": "15.4.0",
     "react": ">=16.8.0",
@@ -15,7 +14,6 @@
     "reactstrap": "8.10.0",
     "sass": "1.62.1"
   },
-  "homepage": "https://gabestepdev.github.io/pie-test/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
